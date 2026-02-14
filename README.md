@@ -4,6 +4,8 @@
 | Language  | Level of knowledge |
 | --------- | ------------------ |
 | Python 🐍 | ***PRO***          |
+| Batch     | Very good          |
+| Bash/Sh   | Very good          |
 | Markdown  | Very good          |
 |EditorConfig| Very good         |
 | JSON      | Very good          |
