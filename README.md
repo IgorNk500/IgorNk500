@@ -6,7 +6,7 @@
 | Python 🐍 | ***PRO***          |
 | Batch     | Very good          |
 | Bash/Sh   | Very good          |
-|Markdown M⬇️| Very good         |
+|Markdown ⬇️| Very good          |
 |EditorConfig| Very good         |
 | JSON 🤖   | Very good          |
 | CFG/YAML  | Good               |
