@@ -10,6 +10,7 @@
 |EditorConfig| Very good         |
 | JSON 🤖   | Very good          |
 | CFG/YAML  | Good               |
+| VBS       | Good
 | HTML      | Good               |
 | CSS       | Good               |
 | JavaScript| Low                |
