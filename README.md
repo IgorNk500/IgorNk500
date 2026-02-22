@@ -9,8 +9,9 @@
 |Markdown ⬇️| Very good          |
 |EditorConfig| Very good         |
 | JSON 🤖   | Very good          |
+| C# 🦈     | Good               |
 | CFG/YAML  | Good               |
-| VBS       | Good
+| VBS       | Good               |
 | HTML      | Good               |
 | CSS       | Good               |
 | JavaScript| Low                |
