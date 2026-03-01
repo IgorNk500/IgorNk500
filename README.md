@@ -1,3 +1,4 @@
+[Читать на русском](README_RU.md)
 # Hi there 👋
 ### I am a young programmer and I know quite a lot of programming languages 💻
 **Below is a table of languages ​​and my level of knowledge 📚 of them:**
