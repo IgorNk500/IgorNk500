@@ -22,7 +22,8 @@
 ## Python libraries
 **I create all my Python libraries using a [template](lib_template.md).**
 
-### 🔭 I’m currently working on obj-lib.
+### 🔭 I’m currently working on termui.
+
 <!--
 **IgorNk500/IgorNk500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
