@@ -4,21 +4,14 @@
 | Название файла/папки | Тип    | Описание    |
 | -------------------- | ------ | ----------- |
 | .github/workflows/release_build.yaml | ФАЙЛ   |Workflow PIP и СБОРКИ|
-| .run               | КАТАЛОГ| PyCharm runs конфигрурация|
 | .gitignore         | ФАЙЛ   | GitIgnore   |
 | LICENSE            | ФАЙЛ   | MIT Лицензия |
 | README.md          | ФАЙЛ   | README      |
-| changelog.md       | ФАЙЛ   | Changelog   |
-| *{lib_name}*       | КАТАЛОГ| Каталог с библиотекой|
-| clear_wheels       | ФАЙЛ   | Скрипт очистки *(BASH)*|
-| clear_wheels.bat   | ФАЙЛ   | Скрипт очистки *(CMD)*|
-| pylib.json         | ФАЙЛ   | Что-то по типу pyproject.toml, но в json|
+| CHANGELOG.md       | ФАЙЛ   | Changelog   |
+| *{pkg_name}*       | КАТАЛОГ| Каталог с библиотекой|
+| *{pkg_name}*/\_\_init\_\_.py | ФАЙЛ | Главный файл пакета с \_\_version\_\_ и \_\_all\_\_ |
 | pyproject.toml     | ФАЙЛ   | Самый обычный pyproject.toml|
-| setup.py           | ФАЙЛ   | Скрипт сборки |
-| version.txt        | ФАЙЛ   | Файл версии |
-
-**В связи с разработкой более сложных библиотек, я добавил обычный** `pyproject.toml`**.**
 
 ---
 
-## Вы можете найти пример моей библиотеки [здесь](https://github.com/IgorNk500/metaerrors).
+## Вы можете найти шаблон моей библиотеки [здесь](https://github.com/IgorNk500/pylib-template)
