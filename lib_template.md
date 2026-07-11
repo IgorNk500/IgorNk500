@@ -1,22 +1,17 @@
 *[Go back](README.md)*
-# The structure of my Python 🐍 libraries
+# The new structure of my Python 🐍 libraries
 
 | File / Folder name | Type   | Description |
 | ------------------ | ------ | ----------- |
 | .github/workflows/release_build.yaml | FILE   | PIP and BUILD Workflow|
-| .run               | FOLDER | PyCharm runs config|
 | .gitignore         | FILE   | GitIgnore   |
 | LICENSE            | FILE   | MIT License |
 | README.md          | FILE   | README      |
-| changelog.md       | FILE   | Changelog   |
-| *{lib_name}*       | FOLDER | PyLib folder|
-| clear_wheels       | FILE   | AfterBuild Cleanup *(BASH)*|
-| clear_wheels.bat   | FILE   | AfterBuild Cleanup *(CMD)*|
-| pylib.json         | FILE   | Something like pyproject.toml, but in json|
+| CHANGELOG.md       | FILE   | Changelog   |
+| *{lib_name}*       | FOLDER | Python package |
+| *{lib_name}*/__init__.py | FILE | INIT file with \_\_version\_\_ and \_\_all\_\_ |
 | pyproject.toml     | FILE   | [pyproject.toml](https://packaging.python.org/en/latest/guides/writing-pyproject-toml)|
-| setup.py           | FILE   | MAIN Build entry |
-| version.txt        | FILE   | VERSION File |
 
 ---
 
-## You can find an example of the library [here](https://github.com/IgorNk500/metaerrors).
+## You can find a template of the library [here](https://github.com/IgorNk500/pylib-template)
