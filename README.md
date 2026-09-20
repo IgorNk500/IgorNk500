@@ -3,26 +3,26 @@
 ### I am a young programmer and I know quite a lot of programming languages 💻
 **Below is a table of languages ​​and my level of knowledge 📚 of them:**
 | Language  | Level of knowledge |
-| --------- | ------------------ |
-| Python 🐍 | ***PRO***          |
-| Batch     | Very good          |
-| Bash/Sh   | Very good          |
-|Markdown ⬇️| Very good          |
-|EditorConfig| Very good         |
-| JSON 🤖   | Very good          |
-| C# 🦈     | Good               |
-| CFG/YAML  | Good               |
-| VBS       | Good               |
-| HTML      | Good               |
-| CSS       | Good               |
-| JavaScript| Low                |
-| Java      | Low                |
-| C / C++   | Low                |
-
+| ------------ | --------- |
+| Python 🐍    | ***PRO*** |
+| Batch        | Very good |
+| Bash/Sh      | Very good |
+| Markdown ⬇️  | Very good |
+| EditorConfig | Very good |
+| JSON 🤖      | Very good |
+| C# 🦈        | Good      |
+| CFG/YAML     | Good      |
+| VBS          | Good      |
+| HTML         | Good      |
+| CSS          | Good      |
+| C / C++      | Good      |
+| Assembler    | Low       |
+| JavaScript   | Low       |
+| Java         | Low       |
 ## Python libraries
 **I create all my Python libraries using a [template](lib_template.md).**
 
-### 🔭 I’m currently working on psdui.
+### 🔭 I’m currently working on familiars.
 
 <!--
 **IgorNk500/IgorNk500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
