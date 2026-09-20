@@ -1,3 +1,5 @@
+###### *You now reading old file. Go to `new` branch for latest news about me*
+
 [Читать на русском](README_RU.md)
 # Hi there 👋
 ### I am a young programmer and I know quite a lot of programming languages 💻
